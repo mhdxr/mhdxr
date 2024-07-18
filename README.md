@@ -1,5 +1,15 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hallo+kak+:3;+Aku+mhdxr;+Aku+masih+belajar+kak;+Jadi+jangan+di+bully+ya+kak+<3;" />
+</h1>
 
+<img src="https://66.media.tumblr.com/8b1b0816012eddea3ba60ddf87109a6b/tumblr_nvb1ejLY2e1ua9vvpo1_500.gif" />
+</p>
+
+<p align="center">
+
+-  Nama saya Yudda Aditiya
+-  Saya Masih Belajar Github
+</p>
 
 ------
 
