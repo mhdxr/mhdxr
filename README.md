@@ -1,6 +1,5 @@
 <h1 align="center"> ザキです<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm mhdxr</h1>
-
-<p align="center">
+</p>
 
 <img src="https://66.media.tumblr.com/8b1b0816012eddea3ba60ddf87109a6b/tumblr_nvb1ejLY2e1ua9vvpo1_500.gif" />
 </p>
@@ -48,7 +47,7 @@ ___
 <br/><br/>
 <hr/>
 
-## ```SOSIALMEDIA SAYA```
+## ```Connect With Me```
 <p align="center">
 <a href="https://instagram.com/ohmyyud_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 <a href="https://wa.me/6282331619602"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
